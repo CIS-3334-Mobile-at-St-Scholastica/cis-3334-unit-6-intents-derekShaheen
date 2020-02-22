@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CSS Spotlight Performances</string>
+    <string name="event1">CANCELED - High School Band Exchange Concert</string>
+    <string name="event2">Building Beyond Bridges CSS Steel Band and...</string>
+    <string name="event3">Justice, Reconciliation And the Gifts of Nature...</string>
 </resources>
